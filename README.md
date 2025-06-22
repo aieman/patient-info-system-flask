@@ -46,3 +46,14 @@ Run app:
 5. Relies on Flask’s default signed cookie sessions and no session expiration policy. Usual practice is to use token-based auth (JWT/OAuth).
 6. APIs are not documented. Swagger generated documentation is the industry practice.
 7. Database connection string and secret key is in the config file, which is not recommended. Industry practice is to use a secrets manager like Azure Key Vault or AWS Secrets Manager to manage app secrets.
+
+**UI Screenshots**
+
+
+![image](https://github.com/user-attachments/assets/05db5c0f-35b3-4853-b886-8e6474f62263)
+
+![image](https://github.com/user-attachments/assets/38fced3e-a80a-460e-9e86-6cb0a1b44228)
+
+![image](https://github.com/user-attachments/assets/a3ec86dd-443c-494b-8a38-d787100dcbc3)
+
+![image](https://github.com/user-attachments/assets/11376304-d442-48af-8444-78e3a116d574)
